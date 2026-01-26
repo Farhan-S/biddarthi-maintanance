@@ -84,7 +84,7 @@ export default function Home() {
                 </svg>
                 <div className="text-left">
                   <p className="text-sm text-gray-600 font-medium">ফিরে আসছি</p>
-                  <p className="text-2xl font-bold text-gray-800">আগামীকাল থেকে</p>
+                  <p className="text-2xl font-bold text-gray-800"> কিছুক্ষণের মধ্যেই</p>
                 </div>
               </div>
             </div>
